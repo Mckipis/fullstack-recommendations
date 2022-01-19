@@ -18,7 +18,7 @@ app.get('/html-css', (req, res) => {
 app.get('/html-css-start', (req, res) => {
     res.render('pages/html-css/start');
 });
-app.get('/html-css-flex', (req, res) => {
+app.get('/html-css-flex', (req, res) => {2
     res.render('pages/html-css/flex');
 });
 

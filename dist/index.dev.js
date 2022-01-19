@@ -24,6 +24,7 @@ app.get('/html-css-start', function (req, res) {
   res.render('pages/html-css/start');
 });
 app.get('/html-css-flex', function (req, res) {
+  2;
   res.render('pages/html-css/flex');
 });
 app.get('/js-start', function (req, res) {
